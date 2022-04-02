@@ -21,38 +21,33 @@ This app takes information from an API and allows users to search for stocks' st
 
 ### 1. User Stories (Required and Optional)
 
-**Required Must-have Stories**
+**Required Must-have Stories (users should be able to)**
 
-* [fill in your required user stories here]
-* ...
+- Search for stocks by name
+- See the graph of the stocks by: seconds, minutes, days, years
+- Read description of the stock
+- A general description of the latest news
+- Add favorites stocks
 
 **Optional Nice-to-have Stories**
 
-* [fill in your required user stories here]
-* ...
+- Compare stocks prices
+- See real time stocks
+- Change graphs styles
 
 ### 2. Screen Archetypes
 
-* [list first screen here]
-   * [list associated required story here]
-   * ...
-* [list second screen here]
-   * [list associated required story here]
-   * ...
+- List of favorite stocks with a search bar at the top
+- View of selected stock description
 
 ### 3. Navigation
 
 **Tab Navigation** (Tab to Screen)
 
-* [fill out your first tab]
-* [fill out your second tab]
-* [fill out your third tab]
+- Favorite stocks
+- All stocks ordered by latests highest changes
 
 **Flow Navigation** (Screen to Screen)
 
-* [list first screen here]
-   * [list screen navigation here]
-   * ...
-* [list second screen here]
-   * [list screen navigation here]
-   * ...
+- See favorite stocks view -> Search bar for stocks
+- Profile -> Go to latests stocks with highest changes
