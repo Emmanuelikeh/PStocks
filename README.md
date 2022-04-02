@@ -11,7 +11,7 @@
 This app takes information from an API and allows users to search for stocks' stats and prices and add stocks into a favorites group list to be displayed separately in the top.
 
 ### App Evaluation
-[Evaluation of your app across the following attributes]
+
 - **Category:** Stocks / Finance / Business
 - **Mobile:** This app will be development with mobile in mind but could also be implemented for computers and other devices.
 - **Story:** Shows stats and history of stocks and allow user to have very current and pass evaluation of specific companies in the market.
