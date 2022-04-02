@@ -6,7 +6,7 @@
 
 ## Overview
 ### Description
-This app takes information from an API and allows users to search for stocks' stats and prices and add stocks into a favorites group list to be displayed separately in the top.
+This app takes information from an API and allows users to search for stocks' stats and prices and add stocks into favorites to be displayed separately.
 
 ### App Evaluation
 
