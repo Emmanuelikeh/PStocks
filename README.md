@@ -90,3 +90,17 @@ Favorite Stocks             |  Remove Favorite         | All Stocks             
 | beta	| Number	| stock volatility vs the market |
 | eps	| Number	| earnings per share |
 
+#### Stocks Information Closed Market
+   | Property      | Type     | Description |
+   | ------------- | -------- | ------------|
+| stockId	| String	| unique id that identify each stocks. e.g: GOOG, S&P 500, etc… |
+| stockName	| String	| name of the stock |
+| favoriteAt	| DateTime	| hold the time the stock was added to favorites |
+| stockExchange	| String	| stock exchange the stock belongs to. e.g: Nasdaq |
+| stockDescription	| String	| brief description of what the stock is about |
+| stockStats	| json	| keep track of the stocks changes, this helps build a graph |
+| clockAt	| Number	| the last price when the market closed |
+| afterHours	| Number	| the last price after hours of the closing market |
+
+
+
