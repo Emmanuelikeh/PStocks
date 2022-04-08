@@ -65,3 +65,28 @@ Favorite Stocks             |  Remove Favorite         | All Stocks             
 <img src="https://user-images.githubusercontent.com/45988719/162543078-b956145d-6584-485f-9808-fb56e059e277.png" width=200><br>  |<img src="https://user-images.githubusercontent.com/45988719/162543130-264d19ff-d43c-4a9f-bddc-7e15052dd23f.png" width=200><br>|<img src="https://user-images.githubusercontent.com/45988719/162543157-2d6a86bd-4f25-4131-b77c-880803be2bab.png" width=200><br>|<img src="https://user-images.githubusercontent.com/45988719/162543176-d9c52f39-fe1e-49ab-a57f-e07679d06d30.png" width=200><br>|<img src="https://user-images.githubusercontent.com/45988719/162543199-76966904-ea5e-4bb6-bd8d-b744901dcef9.png" width=200><br>
 
 
+## Schema 
+### Models
+#### Stocks Information Open Market
+
+   | Property      | Type     | Description |
+   | ------------- | -------- | ------------|
+   | stockId	| String	| unique id that identify each stocks. e.g: GOOG, S&P 500, etc… |
+| stockName	| String	| name of the stock |
+| stockExchange	| String	| stock exchange the stock belongs to. e.g: Nasdaq |
+| stockDescription	| String	| brief description of what the stock is about |
+| stockStats	| json	| keep track of the stocks changes, this helps build a graph |
+| favoriteAt	| DateTime	| hold the time the stock was added to favorites |
+| open	| Number	| price when the  market opened |
+| high	| Number	| highest value of the stock |
+| low	| Number	| lowest value of the stock |
+| vol	| Number	| volume of the stock |
+| p_e	| Number	| price/earning ratio |
+| mktCap | Number	| market capitalization |
+| wH52	| Number	| highest value security has traded |
+| wL52	| Number	| lowest value security has traded |
+| avgVol	| Number	| average stock volume |
+| yield	| Number	| earnings generated over investing (in percentage) |
+| beta	| Number	| stock volatility vs the market |
+| eps	| Number	| earnings per share |
+
