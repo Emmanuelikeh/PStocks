@@ -51,3 +51,7 @@ This app takes information from an API and allows users to search for stocks' st
 
 - See favorite stocks view -> Search bar for stocks
 - Profile -> Go to latests stocks with highest changes
+
+## Wireframes
+
+<img src="https://user-images.githubusercontent.com/45988719/162541605-f1daf102-1d5b-4063-b130-899b94cab8ea.jpeg" width=800><br>
