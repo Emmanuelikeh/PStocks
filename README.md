@@ -55,3 +55,11 @@ This app takes information from an API and allows users to search for stocks' st
 ## Wireframes
 
 <img src="https://user-images.githubusercontent.com/45988719/162541605-f1daf102-1d5b-4063-b130-899b94cab8ea.jpeg" width=800><br>
+
+### [BONUS] Digital Wireframes & Mockups
+
+Favorite Stocks             |  Remove Favorite         | All Stocks             |  Stocks Detail View       | Detail View Favorite         
+:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
+<img src="https://user-images.githubusercontent.com/45988719/162543078-b956145d-6584-485f-9808-fb56e059e277.png" width=200><br>  |<img src="https://user-images.githubusercontent.com/45988719/162543130-264d19ff-d43c-4a9f-bddc-7e15052dd23f.png" width=200><br>|<img src="https://user-images.githubusercontent.com/45988719/162543157-2d6a86bd-4f25-4131-b77c-880803be2bab.png" width=200><br>|<img src="https://user-images.githubusercontent.com/45988719/162543176-d9c52f39-fe1e-49ab-a57f-e07679d06d30.png" width=200><br>|<img src="https://user-images.githubusercontent.com/45988719/162543199-76966904-ea5e-4bb6-bd8d-b744901dcef9.png" width=200><br>
+
+
