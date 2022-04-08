@@ -111,3 +111,50 @@ Favorite Stocks             |  Remove Favorite         | All Stocks             
 | newsDescription	| String	| brief summary of the news related to the stock |
 | newsLink	| String	| url redirect to news |
 
+
+### Networking
+#### List of network requests by screen
+Screen 1: Favorite Stocks <br/>
+GET Query favorite user's favorite stocks <br/>
+POST out of favorites the stocks the user remove from favorites <br/>
+
+```kotlin
+var favoriteStocksQuery = FSQuery(className: "favoriteStocks")
+favoriteStocksQuery.order(byDescending: "favoriteAt")
+favoriteStocksQuery.findObjectsInBackground{
+   try {
+       // TODO: show the stocks information
+   } catch (e: SomeException) {
+        print(e.message)
+   }
+}
+```
+
+Screen 2: All Stocks <br/>
+GET Query top 20 more active stocks in the market <br/>
+POST into favorites the stocks the user select as favorites <br/>
+
+```kotlin
+var allStocksQuery = FSQuery(className: "allStocks")
+allStocksQuery.findObjectsInBackground{
+   try {
+       // TODO: show the stocks information
+   } catch (e: SomeException) {
+        print(e.message)
+   }
+}
+```
+
+Screen 3: Stock Detailed View (*switch between open and closed market*) <br/>
+GET Query select stock description with all the stocks information corresponding this view <br/>
+
+```kotlin
+var detailedViewQuery = FSQuery(className: "allStocks")
+detailedViewQuery.findObjectsInBackground{
+   try {
+       // TODO: show the stocks information
+   } catch (e: SomeException) {
+        print(e.message)
+   }
+}
+```
