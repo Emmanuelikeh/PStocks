@@ -103,4 +103,11 @@ Favorite Stocks             |  Remove Favorite         | All Stocks             
 | afterHours	| Number	| the last price after hours of the closing market |
 
 
+#### Stocks' News
+   | Property      | Type     | Description |
+   | ------------- | -------- | ------------|
+   | newsSource	| String	| news Company Description |
+| postedAt	| DateTime	| the date the news was release |
+| newsDescription	| String	| brief summary of the news related to the stock |
+| newsLink	| String	| url redirect to news |
 
