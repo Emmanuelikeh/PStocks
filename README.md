@@ -149,7 +149,7 @@ Screen 3: Stock Detailed View (*switch between open and closed market*) <br/>
 GET Query select stock description with all the stocks information corresponding this view <br/>
 
 ```kotlin
-var detailedViewQuery = FSQuery(className: "allStocks")
+var detailedViewQuery = FSQuery(className: "detailedView")
 detailedViewQuery.findObjectsInBackground{
    try {
        // TODO: show the stocks information
