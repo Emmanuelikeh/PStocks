@@ -20,7 +20,7 @@ Here's a walkthrough of implemented user stories:
 
 ### View Issues
 
-<img src="https://imgur.com/a/Y1odXoV.gif" width=400><br>
+<img src="https://user-images.githubusercontent.com/45988719/163660383-726543dc-872a-4e09-ab19-b4531bc58081.gif" width=700><br>
 
 ### Assingness
 
