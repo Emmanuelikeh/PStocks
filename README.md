@@ -14,6 +14,22 @@ The following functionality is completed:
 - [x] Completed user stories checked-off in README (2pts)
 - [x] Gifs created to show build progress and added to README (3pts)
 
+## Video Walkthrough
+
+Here's a walkthrough of implemented user stories:
+
+### View Issues
+
+https://user-images.githubusercontent.com/45988719/163659840-f4ee2232-a0ba-42d9-87c5-551a8bcf57ae.mov
+
+### Assingness
+
+https://user-images.githubusercontent.com/45988719/163659856-5db371e5-029d-466a-98e1-db3dc1727213.mov
+
+### Project
+
+https://user-images.githubusercontent.com/45988719/163659868-24f28a38-2868-4b31-b563-3b55b609272d.mov
+
 
 
 ## Table of Contents
