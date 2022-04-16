@@ -1,5 +1,21 @@
 # PStocks
 
+## User Stories
+
+The following functionality is completed:
+
+- [x] Sprint Plan in place using GitHub project management flow.
+   - [x] GitHub Project created (1pt)
+   - [x] GitHub Milestones created (1pt)
+   - [x] GitHub Issues created from user stories (2pts)
+   - [x] Issues added to project and assigned to specific team members (1pt)
+- [x] Updated status of issues in Project board (2pts)
+- [x] Sprint planned for next week (Issues created, assigned & added to project board) (3pts)
+- [x] Completed user stories checked-off in README (2pts)
+- [x] Gifs created to show build progress and added to README (3pts)
+
+
+
 ## Table of Contents
 1. [Overview](#Overview)
 1. [Product Spec](#Product-Spec)
