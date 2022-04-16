@@ -28,9 +28,7 @@ Here's a walkthrough of implemented user stories:
 
 ### Project
 
-https://user-images.githubusercontent.com/45988719/163659868-24f28a38-2868-4b31-b563-3b55b609272d.mov
-
-
+<img src="https://user-images.githubusercontent.com/45988719/163660526-d36e871f-c1ab-4e5f-a5f1-536ff349f100.gif" width=700><br>
 
 ## Table of Contents
 1. [Overview](#Overview)
