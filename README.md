@@ -22,9 +22,9 @@ Here's a walkthrough of implemented user stories:
 
 <img src="https://user-images.githubusercontent.com/45988719/163660383-726543dc-872a-4e09-ab19-b4531bc58081.gif" width=700><br>
 
-### Assingness
+### Assigness
 
-https://user-images.githubusercontent.com/45988719/163659856-5db371e5-029d-466a-98e1-db3dc1727213.mov
+<img src="https://user-images.githubusercontent.com/45988719/163660449-45f7eddf-c314-4ccf-a4b9-26efaabc2b94.gif" width=700><br>
 
 ### Project
 
